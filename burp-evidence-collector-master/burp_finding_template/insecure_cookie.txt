@@ -1,0 +1,9 @@
+INFO - Insecure cookie flags
+%LINE%
+The server does not implement the following cookie flags:
+     - __HOST
+     - Secure
+     - HttpOnly
+
+Supporting evidences:
+---------------------
